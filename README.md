@@ -30,7 +30,7 @@ It demonstrates skills in:
 
 ## 📁 Project Structure
 
----
+```
 
 spark-sales-analytics-pipeline/
 │
@@ -50,7 +50,7 @@ spark-sales-analytics-pipeline/
 ├─ requirements.txt # Project dependencies
 └─ README.md # Project documentation
 
----
+```
 
 
 ## ⚡ How to Run the Pipeline
