@@ -40,7 +40,7 @@ spark-sales-analytics-pipeline/
 │ ├─ extract.py # Extracts data from CSV
 │ ├─ transform.py # Aggregates and computes analytics
 │ ├─ load.py # Saves processed data
-│ └─ run_pipeline.py# Orchestrates the ETL pipeline
+│ └─ run_pipeline.py # Orchestrates the ETL pipeline
 │
 ├─ scripts/
 │ └─ create_spark_session.py # Spark session setup
