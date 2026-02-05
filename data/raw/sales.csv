@@ -1,0 +1,6 @@
+order_id,order_date,product_id,quantity,price,country
+1,2024-01-01,501,2,10,USA
+2,2024-01-01,502,1,20,India
+3,2024-01-02,503,3,15,Canada
+4,2024-01-03,504,1,25,USA
+5,2024-01-04,505,2,30,India
